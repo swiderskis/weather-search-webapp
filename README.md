@@ -1,3 +1,7 @@
+# About
+
+A web app to find the current weather & temperature in a city, built using React and TypeScript, with API calls performed using Axios.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,3 +48,9 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Other Dependencies
+
+Requires axios, which can be installed using
+
+### `npm install axios`
