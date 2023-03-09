@@ -1,4 +1,6 @@
-# About
+# Weather Search
+
+## About
 
 A web app to find the current weather & temperature in a city, built using React and TypeScript, with API calls performed using Axios.
 
