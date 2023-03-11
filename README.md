@@ -4,6 +4,8 @@
 
 A web app to find the current weather & temperature in a city, built using React and TypeScript, with API calls performed using Axios.
 
+Favicon from [icons8](https://icons8.com/icon/XteFohzHJO7p/smiling-sun).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
